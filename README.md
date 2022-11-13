@@ -1,6 +1,6 @@
 ### Opa , Eae Dev!
 
-### Óla eu sou o Ruberty Willian ✌️
+### Eu sou o Ruberty Willian ✌️
 
 ### 📙Sobre mim
 
@@ -18,7 +18,9 @@
 
 ⚡Fun fact: Seu código não vai dar erro, se você coloca-lo dentro de um bloco try-catch🤔
 
-[![blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCpBTrwclsr8eeiVTSyWFgYQ)[![blog](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/ch4k4lzinho_)[![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/willian_ruberty/)[![blog](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SouRuberty)[![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruberty-albuquerque-4a115a212/)   
+[![blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCpBTrwclsr8eeiVTSyWFgYQ)[![blog](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/ch4k4lzinho_)[![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/willian_ruberty/)[![blog](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SouRuberty)[![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruberty-albuquerque-4a115a212/) 
+
+### 📈Estatísticas
 
 ![Ruberty GitHub stats](https://github-readme-stats.vercel.app/api?username=Ch4k4lzinho&show_icons=true&theme=tokyonight)
 
@@ -37,7 +39,7 @@
 </div>
 <br/>
 
-Apaixonado por programaçao e jogos eletronicos
+Apaixonado por programação e jogos eletrônicos
 
 
 
