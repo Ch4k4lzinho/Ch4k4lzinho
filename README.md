@@ -1,7 +1,22 @@
 ### Opa , Eae Dev!
 
-
 ### Óla eu sou o Ruberty Willian ✌️
+
+### 📙Sobre mim
+
+🔭Eu atualmente estou procurando novas oportunidades de trabalho.
+
+🌱Eu atualmente estou aprendendo novas tecnologias como Node js, ReactJS.
+
+👯Fico extremamente grato em coloborar com pessoas que sabem valorizar um trabalho em equipe e pensam fora da curva ou não tem medo de ousar.
+
+💬Converso sobre qualquer coisa, entretanto oque me chama atenção mesmo é falar sobre empreendedorismo, Técnologia e jogos .
+
+📫 Pode falar comigo atráves do meu email pessoal: rubertywilhan7@hotmail.com ou pelo proprio linkedin, o link deve está logo abaixo.
+
+😄Pronouns: Meu nome é Ruberty, mas o pessoal costuma me chamar de Ch4k4l, então o apelido meio que pegou. kakakakaka
+
+⚡Fun fact: Seu código não vai dar erro, se você coloca-lo dentro de um bloco try-catch🤔
 
 [![blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCpBTrwclsr8eeiVTSyWFgYQ)[![blog](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/ch4k4lzinho_)[![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/willian_ruberty/)[![blog](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SouRuberty)[![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruberty-albuquerque-4a115a212/)   
 
