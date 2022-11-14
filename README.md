@@ -1,6 +1,6 @@
-<h1 aling="center"> Opa , Eae Dev!<h1>
+<h1 aling="center"> Opa , Eae Dev!</h1>
 
-<h1 aling="center">Eu sou o Ruberty Willian ✌️<h1>
+<h1 aling="center">Eu sou o Ruberty Willian ✌️</h1>
 
 📙Sobre mim
 
@@ -26,7 +26,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ch4k4lzinho)](https://github.com/Ch4k4lzinho/github-readme-stats)
 
-<h1 aling="center">Tecnologias que uso<h1>
+<h1 aling="center">Tecnologias que uso</h1>
 
 <div style="displa: inline_block"><br/>
 <img aling="center" alt=html5 src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white />
@@ -39,7 +39,8 @@
 </div>
 <br/>
 
-Apaixonado por programação e jogos eletrônicos
+
+  <h1 aling="center">Apaixonado por programação e jogos eletrônicos</h1>
 
 
 
