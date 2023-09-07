@@ -23,8 +23,7 @@
 ### <h1>📈Estatísticas<h1>
 
 ![Ruberty GitHub stats](https://github-readme-stats.vercel.app/api?username=Ch4k4lzinho&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ch4k4lzinho)](https://github.com/Ch4k4lzinho/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ch4k4lzinho)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1 aling="center">Tecnologias que uso</h1>
 
