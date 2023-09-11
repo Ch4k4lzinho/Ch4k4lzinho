@@ -40,7 +40,6 @@
 <br/>
 
 
-  <h1 aling="center">Apaixonado por programação e jogos eletrônicos</h1>
 
 
 
